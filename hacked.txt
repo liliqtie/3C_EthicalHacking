@@ -1,0 +1,5 @@
+USERNAME=joybagalihog, PASSWORD=
+USERNAME=joybagalihog, PASSWORD=maganda
+USERNAME= mictest, PASSWORD= testing
+USERNAME= Bagalihog, PASSWORD= Joy
+USERNAME= gumanaba, PASSWORD= 1234
